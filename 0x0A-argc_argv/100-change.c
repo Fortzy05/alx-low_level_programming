@@ -3,7 +3,7 @@
 #include <ctype.h>
 
 /**
- * main - adds numbers
+ * main - prints the minimum number of coins to make change for an amount of money
  * @argc: number of arguments passed to the function
  * @argv: argument vector of pointers to strings
  *
